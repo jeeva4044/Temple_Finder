@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "427148287249",
+    "firebase_url": "https://templefinder-b76ef-default-rtdb.firebaseio.com",
+    "project_id": "templefinder-b76ef",
+    "storage_bucket": "templefinder-b76ef.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:427148287249:android:5d5dd1015cf6a90fcd00b0",
+        "android_client_info": {
+          "package_name": "com.example.s"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "427148287249-qe7vnmvvmvqrn9h7a1divqasb7v9h2mc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHS4tlGSWtUfA4CAhICUX6eQPPepz5cPg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "427148287249-qe7vnmvvmvqrn9h7a1divqasb7v9h2mc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
